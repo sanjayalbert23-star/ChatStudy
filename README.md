@@ -124,8 +124,9 @@ server.close()
 ```
 
 ## Result:
-<img width="1865" height="980" alt="Screenshot 2026-01-30 124215" src="https://github.com/user-attachments/assets/84627cd3-7d04-4ff3-bf20-0ea9dc4653e0" />
-<img width="1866" height="967" alt="Screenshot 2026-01-30 124136" src="https://github.com/user-attachments/assets/fdbc8417-12f8-4c56-86c2-88a1670c7deb" />
+<img width="1311" height="926" alt="Screenshot 2026-03-12 132039" src="https://github.com/user-attachments/assets/2af8d95a-96ba-4250-b7c3-d679eb97d8f8" />
+<img width="1244" height="980" alt="Screenshot 2026-03-12 132052" src="https://github.com/user-attachments/assets/ab5e3934-e426-4da1-bba9-117fad3859d4" />
+
 
 Thus the study on Client Server Chat Applications has been performed
 
